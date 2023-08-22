@@ -1,6 +1,6 @@
 # Calculator Project with Tiva C Microcontroller 🧮
 
-![Calculator](calculator.jpg)
+![Calculator](https://github.com/mohamedgamal7/Calculator-with-Tiva-C-TM4C123GXL-Microcontroller/blob/master/images%20%26%20videos/calculator.png)
 
 Welcome to the Calculator Project! This project demonstrates the creation of an interactive calculator using the Tiva C TM4C123GH6PM microcontroller. The calculator is interfaced with an LCD display and a keypad to provide a great functional calculator experience !
 
@@ -50,7 +50,7 @@ Welcome to the Calculator Project! This project demonstrates the creation of an 
 
 ## Demo Video 📹
 
-Check out the project in action! Watch the demo video [here](link_to_demo_video).
+Check out the project in action! Watch the demo video [here](https://github.com/mohamedgamal7/Calculator-with-Tiva-C-TM4C123GXL-Microcontroller/blob/master/images%20%26%20videos/My%20Video.mp4).
 
 ## Project Structure 📂
 ```

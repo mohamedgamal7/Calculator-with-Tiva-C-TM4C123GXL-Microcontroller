@@ -50,7 +50,7 @@ Welcome to the Calculator Project! This project demonstrates the creation of an 
 
 ## Demo Video 📹
 
-Check out the project in action! Watch the demo video [here](https://github.com/mohamedgamal7/Calculator-with-Tiva-C-TM4C123GXL-Microcontroller/blob/master/images%20%26%20videos/My%20Video.mp4).
+Check out the project in action! Watch the demo video [here](https://drive.google.com/file/d/1tRL6g9DZ2UBmeJ3D4FeHUNkMemXSAQx1/view).
 
 ## Project Structure 📂
 ```
